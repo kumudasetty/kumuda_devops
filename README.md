@@ -1,1 +1,3 @@
 # kumuda_devops
+
+THIS IS THE ONLINE CLASSES TRAINING FOR GIT
